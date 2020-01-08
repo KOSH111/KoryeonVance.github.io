@@ -1,0 +1,83 @@
+ul{
+    list-style-type:none;
+     background-color:rgb(255, 120, 99);
+     padding: 20px;
+}
+
+
+
+a{
+    text-decoration:none;
+    color: rgb(0, 0, 0);
+    
+}
+
+
+
+li{
+    display:inline;
+    padding:120px;
+}
+
+
+
+li a:hover {
+  background-color: rgb(255, 105, 105);
+  color: rgb(101, 181, 247);
+}
+
+
+.bg{
+  background-image: url("Face.jpg");
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p1{
+    font-family: 'Anton', sans-serif;
+    color: rgb(101, 181, 247);
+}
+
+.ty{
+    background-image: url("plane.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    
+}
+
+
+.bh{
+    background-image: url("work.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top:50%;
+    color: rgb(255,255,255);
+    background-color: rgba(100,100,100,0.5)
+    
+}
+
+
+
+.bn{
+    text-align: center;
+    margin-top:50%;
+    color: rgb(255,255,255);
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgba(101, 181, 247,0.5)
+}
